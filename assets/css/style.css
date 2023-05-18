@@ -1,3 +1,4 @@
+/* Universal selector, applies to all html element*/
 * {
     box-sizing: border-box;
     padding: 0;
