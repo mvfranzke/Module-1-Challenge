@@ -252,21 +252,28 @@ main {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+                    /* removed below class, will consolidate in one class .service h2 as their value is all the same
+                    .search-engine-optimization h2 {
+                        margin-bottom: 20px;
+                        font-size: 36px;
+                    }
 
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+                    .online-reputation-management h2 {
+                        margin-bottom: 20px;
+                        font-size: 36px;
+                    }
 
+                    .social-media-marketing h2 {
+                        margin-bottom: 20px;
+                        font-size: 36px;
+                    }
+                    */
+
+
+
+
+                    
 .footer {
     padding: 30px;
     clear: both;
