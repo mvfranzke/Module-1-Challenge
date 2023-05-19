@@ -104,7 +104,7 @@ p {
                 }
                 */
 
-                
+
 /*added style for main */
 main {
     width: 75px;
@@ -124,20 +124,26 @@ main {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
+                    /*below styles are no longer needed, consolidated variables to .benefit since they all require same bottom margin and color, to simplify coding
+                    .benefit-lead {
+                        margin-bottom: 32px;
+                        color: #ffffff;
+                    }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
+                    .benefit-brand {
+                        margin-bottom: 32px;
+                        color: #ffffff;
+                    }
 
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
+                    .benefit-cost {
+                        margin-bottom: 32px;
+                        color: #ffffff;
+                    }
+                    */
+
+
+
+
 
 .benefit-lead h3 {
     margin-bottom: 10px;
