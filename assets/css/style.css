@@ -195,6 +195,7 @@ main {
     max-width: 150px;
 }
 
+/* services section */
 
                         /*removed below class and consolidated to a new class .service{} as their value are same and redundant
                         .search-engine-optimization {
