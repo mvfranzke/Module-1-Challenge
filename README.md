@@ -16,3 +16,10 @@ URL of Github repository :
 https://github.com/mvfranzke/Module-1-Challenge
 
 Screenshot of deployed application can be found here:
+![alt text](assets/images/deployed_application.jpg)
+
+## Credits
+N/A
+
+## License
+N/A
