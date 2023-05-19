@@ -104,6 +104,14 @@ p {
                 }
                 */
 
+                
+/*added style for main */
+main {
+    width: 75px;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 
 .benefits {
     margin-right: 20px;
