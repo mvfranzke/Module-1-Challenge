@@ -234,18 +234,19 @@ main {
     color: #ffffff
 }
 
+                    /*below class are no longer needed and will be consolidate into one class named .service img since their maximum height value is all the same
+                    .search-engine-optimization img {
+                        max-height: 200px;
+                    }
 
-.search-engine-optimization img {
-    max-height: 200px;
-}
+                    .online-reputation-management img {
+                        max-height: 200px;
+                    }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
+                    .social-media-marketing img {
+                        max-height: 200px;
+                    }
+                    */
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
