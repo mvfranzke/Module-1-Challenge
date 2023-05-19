@@ -96,11 +96,14 @@ p {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
+                /*below style are no longer needed as <div class="content"> is removed and replaced with <section> for semantics
+                .content {
+                    width: 75%;
+                    display: inline-block;
+                    margin-left: 20px;
+                }
+                */
+
 
 .benefits {
     margin-right: 20px;
