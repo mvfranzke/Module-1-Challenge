@@ -195,32 +195,35 @@ main {
     max-width: 150px;
 }
 
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
+                        /*removed below class and consolidated to a new class .service{} as their value are same and redundant
+                        .search-engine-optimization {
+                            margin-bottom: 20px;
+                            padding: 50px;
+                            height: 300px;
+                            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                            background-color: #0072bb;
+                            color: #ffffff;
+                        }
 
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
+                        .online-reputation-management {
+                            margin-bottom: 20px;
+                            padding: 50px;
+                            height: 300px;
+                            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                            background-color: #0072bb;
+                            color: #ffffff;
+                        }
+
+                        .social-media-marketing {
+                            margin-bottom: 20px;
+                            padding: 50px;
+                            height: 300px;
+                            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                            background-color: #0072bb;
+                            color: #ffffff;
+                        }
+                        */
 
 .search-engine-optimization img {
     max-height: 200px;
